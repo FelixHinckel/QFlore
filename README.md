@@ -19,6 +19,9 @@ En plus de ça, le projet comporte :
 
 Le projet est livré avec un tutoriel. Celui ci englobe à la fois l'utilisation générale de QField (fonctionnement sur le terrain, lien avec Qgis, récupération des données), et détaille plus précisément le fonctionnement de QFlore.
 
+Télécharger QFlore :
+https://github.com/FelixHinckel/QFlore/archive/refs/tags/v1.0.0.zip
+
 Si vous avez avez des remarques, constatez des bugs, ou avez des propositions d'amélioration, n'hésitez pas à m'en faire part à felix.hinckel@ageona-cartographie.fr
 
 Un grand merci à Augustin Soulard pour son aide et son travail sur le Kit Bota, et à Agathe Verzeni pour son aide au démarrage du projet!
