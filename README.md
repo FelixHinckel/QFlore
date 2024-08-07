@@ -9,7 +9,7 @@ Ce projet contient :
 - Une couche surfacique de zones humides
 - Une couche ponctuelle de sondage pédologiques, avec une approche par horizon
 
-Pour assister la saisie en Flore, le projet est liée avec une liste d'espèce nationale provenant de la Liste Rouge Nationale, des directives habitats, et des espèces protégées nationalement. Il est possible d'adapter cette liste selon le département d'étude, avec des données provenant aussi des Listes Rouges Régionales, des protections régionales et départementales, et des déterminances ZNIEFF. Les listes d'espèces et les différents statuts proviennent du TaxRef, et de la Base de Données Connaissance de l'INPN.
+Pour assister la saisie en Flore, le projet est liée avec une liste d'espèce nationale provenant du TaxRef. Avec cette liste figurent la Liste Rouge Nationale, les directives habitats, et les espèces protégées nationalement. Il est possible d'adapter cette liste selon le département d'étude, avec des données provenant aussi des Listes Rouges Régionales, des protections régionales et départementales, et des déterminances ZNIEFF. Tous ces statuts proviennent de la Base de Données Connaissance de l'INPN.
 
 En plus de ça, le projet comporte : 
 
@@ -20,7 +20,7 @@ En plus de ça, le projet comporte :
 Le projet est livré avec un tutoriel. Celui ci englobe à la fois l'utilisation générale de QField (fonctionnement sur le terrain, lien avec Qgis, récupération des données), et détaille plus précisément le fonctionnement de QFlore.
 
 Télécharger QFlore :
-https://github.com/FelixHinckel/QFlore/archive/refs/tags/v1.0.0.zip
+https://github.com/FelixHinckel/QFlore/archive/refs/tags/v1.1.0.zip
 
 Si vous avez avez des remarques, constatez des bugs, ou avez des propositions d'amélioration, n'hésitez pas à m'en faire part à felix.hinckel@ageona-cartographie.fr
 
